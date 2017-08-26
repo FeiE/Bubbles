@@ -26,6 +26,6 @@ MI provides a non-parametric estimation of the linear or nonlinear statistical d
 
 
 ## Reverse analyses ##
-Reverse analyses can determine how the pixel representing left eye region affected single-trial ERP distributions from the right hemisphere. To do so, we group distributions of single-trial ERP into 10 binns according to the availability of eye information. The figure below indicates Increased visibility of the right eye caused larger and earlier N170. 
+Reverse analyses can determine how the pixel representing left eye region affected single-trial ERP distributions from the right hemisphere. To do so, we group distributions of single-trial ERP into 10 binns according to the availability of eye information. The figure below indicates increased visibility of the left eye caused larger and earlier N170. 
 
 <img src="/reverseanalyses.png" alt="" width="500">

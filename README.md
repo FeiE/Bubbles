@@ -20,7 +20,7 @@ MI provides a non-parametric estimation of the linear or nonlinear statistical d
 
 - Blue frame: for the pixel marked in red, we can compute MI between two vectors: the distribution of behaviour performance (i.e. RT, correct or not) and pixel intensity from Bubble mask. To obtain classification image, we repeat MI calculation per each pixel within the face oval.
 
-- Orange frame: similarly, we can obtain classification image that depict relationship between each pixel intensity from Bubble mask and ERP bivariate responses ([ERP, ERPg]) at each time point and electrode. For example, the figure below showed sensitivity of ERP bivariate responses recorded from the right hemisphere to left eye ERP bivariate responses.   
+- Orange frame: similarly, we can obtain classification image that depict relationship between each pixel intensity from Bubble mask and ERP bivariate responses ([ERP, ERPg]) at each time point and electrode. For example, the figure below showed sensitivity of ERP bivariate responses recorded from the right hemisphere to left eye.   
 
 <img src="/MI_results.png" alt="" width="200">
 
